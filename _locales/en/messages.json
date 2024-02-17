@@ -1,0 +1,17 @@
+{
+  "extensionName": {
+    "message": "Translatify",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Translates selected content from Spanish to English",
+    "description": "Description of the add-on."
+  },
+
+  "menuItemSelectionTranslator": {
+    "message": "Translate '%s'",
+    "description": "Title of context menu item that translates the selected text when clicked."
+  }
+
+}

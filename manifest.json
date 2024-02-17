@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Translatify",
+  "default_locale": "en",
+  "version": "1.0",
+
+  "description": "Adds a context menu option to translate highlighted text from Spanish to English",
+  "homepage_url": "https://github.com/iangardiner/translatify",
+
+  "permissions": ["menus"],
+
+  "background": {
+    "scripts": ["background_scripts/translatify.js"],
+    "persistent": false,
+    "type": "module"
+  }
+}
+
